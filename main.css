@@ -1,0 +1,391 @@
+
+
+/* Typography */
+
+body{
+  font-family: 'Airbnb Cereal App', sans-serif;
+}
+
+h1{
+  font-family: 'Jomolhari', serif;
+  font-size: 68px;
+  color: #000;
+}
+
+h2{
+  font-family: 'Airbnb Cereal App', sans-serif;
+  font-size: 20px;
+  color: #9B9B9B;
+  line-height: 40px;
+  font-weight: 400;
+}
+
+h3{
+  font-family: 'Airbnb Cereal App', sans-serif;
+  font-size: 18px;
+  color: #9b9b9b;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+h4{
+  font-family: 'Jomolhari', serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #000;
+}
+
+p{
+  font-family: 'Airbnb Cereal App', sans-serif;
+  font-size: 16px;
+  color: #9B9B9B;
+  text-align: left;
+}
+
+.signature{
+  font-family: 'Jomolhari', serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+  color: #5061D2;
+}
+
+.indigo{
+  color: #5061D2;
+}
+
+.black{
+  color: #000;
+}
+
+.gray{
+  color: #9B9B9B;
+}
+
+
+/* Navbar */
+
+.navbar{
+background-color: white;
+box-shadow: 0 2px 10px rgba(214, 214, 214, 100);
+padding: 0.5% 10%;
+}
+
+.navbar-brand{
+  font-family: 'Jomolhari', serif;
+  font-size: 24px;
+  letter-spacing: 6px;
+}
+
+.navbar a:hover{
+  color: #293AAD;
+  text-decoration: none;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  transform: scale(1.07);
+}
+
+a.nav-link:hover{
+  color: #293AAD;
+  text-decoration: none;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  transform: scale(1.07);
+}
+
+/* Links */
+
+a{
+  color: #000;
+  display: inline-block;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+/* Title */
+
+#title{
+  padding: 16.5% 10% 7% 10%;
+}
+
+img{
+  max-width: 100%;
+}
+
+#title a:hover{
+  color: #293AAD;
+  text-decoration: none;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  transform: scale(1.05);
+}
+
+
+/* Featured Work */
+
+#featured-work{
+  padding: 0 10%;
+}
+
+.card{
+  border: none;
+  box-shadow: 0 2px 10px rgba(214, 214, 214, 100);
+  margin-top: 20px;
+  margin-bottom: 110px;
+}
+
+.card:hover{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.12), 0 10px 10px rgba(0,0,0,0.12);
+  transform: translateY(-15px);
+}
+
+.card-img-top{
+  padding:0;
+}
+
+.img-responsive{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#featured-work p{
+  font-family: 'Airbnb Cereal App', sans-serif;
+  font-size: 16px;
+  color: #293AAD;
+  text-align: left;
+  padding-top: 10px;
+}
+
+.card-title{
+  font-family: 'Airbnb Cereal App', sans-serif;
+  font-size: 18px;
+  color: #000000;
+  font-weight: 400;
+  line-height: 32px;
+
+}
+
+
+
+/* Hackathon Projects */
+
+#hackathon-projects{
+  padding: 0.1% 10% 0;
+}
+
+.hackathon-title-lg{
+  padding-top: 40px;
+}
+
+.hackathon-title-sm{
+  padding-top: 80px;
+  padding-bottom: 10px;
+}
+
+#hackathon-projects p{
+  font-family: 'Airbnb Cereal App', sans-serif;
+  font-size: 16px;
+  color: #293AAD;
+  text-align: left;
+  padding-top: 10px;
+}
+
+
+/* Contact Section */
+
+#contact{
+  padding: 4% 10% 15% 10%;
+}
+
+i{
+  padding-top: 30px;
+  padding-right: 20px;
+  color:#5061D2;
+}
+
+#contact a:hover{
+  color: #293AAD;
+  text-decoration: none;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  transform: scale(1.1);
+}
+
+
+/* Footer */
+
+#footer{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: #F0F0F0;
+}
+
+
+/* About Page */
+
+#quote-section{
+  padding-top: 12%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 3%;
+}
+
+.quote{
+  font-family: 'Jomolhari', serif;
+  font-size: 32px;
+  color: #000;
+  text-align: center;
+}
+#my-story{
+  padding: 0 10%;
+  padding-bottom: 5%;
+}
+
+#my-story h3{
+  padding-left: 5%;
+  padding-right: 7%;
+  padding-top: 15px;
+  color: #000;
+  font-size: 16px;
+}
+
+.top-line{
+
+}
+
+#about #contact{
+  text-align: center;
+}
+
+#about h3{
+  padding: 0  0;
+}
+
+/* Special Effects */
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+
+/* Responsive */
+
+@media (min-width: 1000px){
+  img{
+    display: block;
+    margin-left: auto;
+    padding-top: 15px;
+    width: 78%;
+  }
+
+  .hackathon-title-sm{
+    display: none;
+  }
+
+}
+
+@media (max-width: 999px){
+  img{
+    padding-top: 50px;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #hackathon-projects{
+    padding: 0 10%;
+  }
+
+  .hackathon-title-lg{
+    padding-top: 0;
+    display: none;
+  }
+
+  #quote-section{
+    padding-top: 20%;
+    padding-bottom: 5%;
+  }
+
+  .top-line{
+    margin-top: 30px;
+  }
+
+  #my-story h3{
+    padding-left: 60px;
+  }
+
+
+}
+
+@media (max-width: 600px){
+
+  #title{
+    padding-top: 130px;
+    padding-bottom: 70px;
+  }
+
+  #title img{
+    display: none;
+  }
+
+  .hackathon-title-lg{
+    display: none;
+  }
+
+  .card{
+    margin-bottom: 20px;
+  }
+
+  #my-story img{
+    padding-top: 0;
+  }
+
+  #quote-section{
+    padding-top: 20%;
+    padding-bottom: 5%;
+  }
+
+  #my-story h3{
+    padding-left: 40px;
+    margin-right: 40px;
+  }
+
+  #footer{
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+}
