@@ -253,6 +253,8 @@ i{
   padding-bottom: 5%;
 }
 
+
+
 #my-story h3{
   padding-left: 5%;
   padding-right: 7%;
@@ -309,6 +311,10 @@ i{
     margin-left: auto;
     padding-top: 15px;
     width: 78%;
+  }
+
+  #my-story img{
+    padding-top: 50px;
   }
 
   .hackathon-title-sm{
