@@ -332,6 +332,10 @@ i{
     margin-right: auto;
   }
 
+  #my-story img{
+    padding-top: 0;
+  }
+
   #hackathon-projects{
     padding: 0 10%;
   }
