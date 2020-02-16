@@ -1,19 +1,19 @@
-
+EB Garamond
 
 /* Typography */
 
 body{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
 }
 
 h1{
-  font-family: 'Jomolhari', serif;
-  font-size: 68px;
+  font-family: 'EB Garamond', serif;
+  font-size: 78px;
   color: #000;
 }
 
 h2{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 20px;
   color: #9B9B9B;
   line-height: 40px;
@@ -21,7 +21,7 @@ h2{
 }
 
 h3{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 18px;
   color: #9b9b9b;
   font-weight: 400;
@@ -29,28 +29,29 @@ h3{
 }
 
 h4{
-  font-family: 'Jomolhari', serif;
-  font-size: 20px;
+  font-family: 'EB Garamond', serif;
+  font-size: 22px;
+  font-weight: 600;
   letter-spacing: 2px;
   color: #000;
 }
 
 p{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 16px;
   color: #9B9B9B;
   text-align: left;
 }
 
 .signature{
-  font-family: 'Jomolhari', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 18px;
   letter-spacing: 2px;
-  color: #5061D2;
+  color: #76939A;
 }
 
 .indigo{
-  color: #5061D2;
+  color: #76939A;
 }
 
 .black{
@@ -71,13 +72,13 @@ padding: 0.5% 10%;
 }
 
 .navbar-brand{
-  font-family: 'Jomolhari', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 24px;
   letter-spacing: 6px;
 }
 
 .navbar a:hover{
-  color: #293AAD;
+  color: #76939A;
   text-decoration: none;
   transition-duration: 0.3s;
   transition-property: transform;
@@ -86,7 +87,7 @@ padding: 0.5% 10%;
 }
 
 a.nav-link:hover{
-  color: #293AAD;
+  color: #76939A;
   text-decoration: none;
   transition-duration: 0.3s;
   transition-property: transform;
@@ -116,7 +117,7 @@ img{
 }
 
 #title a:hover{
-  color: #293AAD;
+  color: #76939A;
   text-decoration: none;
   transition-duration: 0.3s;
   transition-property: transform;
@@ -159,15 +160,15 @@ img{
 }
 
 #featured-work p{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 16px;
-  color: #293AAD;
+  color: #76939A;
   text-align: left;
   padding-top: 10px;
 }
 
 .card-title{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 18px;
   color: #000000;
   font-weight: 400;
@@ -193,9 +194,9 @@ img{
 }
 
 #hackathon-projects p{
-  font-family: 'Airbnb Cereal App', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 16px;
-  color: #293AAD;
+  color: #76939A;
   text-align: left;
   padding-top: 10px;
 }
@@ -210,11 +211,11 @@ img{
 i{
   padding-top: 30px;
   padding-right: 20px;
-  color:#5061D2;
+  color:#76939A;
 }
 
 #contact a:hover{
-  color: #293AAD;
+  color: #76939A;
   text-decoration: none;
   transition-duration: 0.3s;
   transition-property: transform;
@@ -243,7 +244,7 @@ i{
 }
 
 .quote{
-  font-family: 'Jomolhari', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 32px;
   color: #000;
   text-align: center;
@@ -311,7 +312,7 @@ i{
   img{
     display: block;
     margin-left: auto;
-    padding-top: 15px;
+    padding-top: 50px;
     width: 78%;
   }
 
