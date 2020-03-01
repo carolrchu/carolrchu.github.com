@@ -34,6 +34,7 @@ h4{
   font-size: 22px;
   font-weight:500;
   letter-spacing: 2px;
+  line-height: 22*2;
   color: #000;
 }
 
@@ -396,10 +397,6 @@ i{
     padding-bottom: 5%;
     padding-left: 10%;
     padding-right: 10%;
-  }
-
-  #quote-section p.quote{
-    text-align: left;
   }
 
   #my-story h3.top-line{
