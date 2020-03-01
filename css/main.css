@@ -111,10 +111,11 @@ a:hover{
 /* Title */
 
 #title{
-  padding: 14% 10% 7% 10%;
+  padding: 13.5% 10% 7% 10%;
 }
 
-img{
+#title img{
+  padding-top: 5%;
   max-width: 100%;
 }
 
